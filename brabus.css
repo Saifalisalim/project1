@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Babylonica&family=Pacifico&family=Permanent+Marker&family=Rajdhani:wght@300&family=Teko:wght@500&family=Tilt+Neon&family=Tilt+Warp&display=swap');#top{
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Babylonica&family=Pacifico&family=Permanent+Marker&family=Rajdhani:wght@300&family=Teko:wght@500&family=Tilt+Neon&family=Tilt+Warp&display=swap');
+#top{
     background-color: rgba(0, 0, 0, 0);
     width: 100%;
     height: 80px;
@@ -15,7 +16,7 @@ body{
     font-family: 'Alfa Slab One', cursive;
 }
 #a2{
-    background-color: black;
+    /* background-color: black; */
     width: 100%;
     height: 650px;
     color: black;
@@ -25,7 +26,6 @@ body{
 video{
     width: 100%;
     height: 100%;
-
 }
 #a3{
         /* background-color: rgb(240, 138, 138); */
@@ -246,7 +246,7 @@ color: white;
 .dl{
     width: 100%;
     height: 290px;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     position: relative;
 }
 #d1l{
